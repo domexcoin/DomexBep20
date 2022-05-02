@@ -21,3 +21,15 @@ BEP20 기반의 DOMEX 토큰을 생성하는 소스코드
 - `./secret/` : private key 등 외부에 공개되면 안되는 파일들을 모아둔 디렉토리
 
 - `./truffle-config.js` : 트러플 설정 파일
+
+# 컴파일 방법
+
+```
+    truffle compile
+```
+
+# 배포 방법
+
+```
+    truffle migration bsc_mainnet
+```
