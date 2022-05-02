@@ -1,0 +1,7 @@
+{
+  "name": "domex-bep20",
+  "version": "1.0.0",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8"
+  }
+}
