@@ -31,5 +31,5 @@ BEP20 기반의 DOMEX 토큰을 생성하는 소스코드
 # 배포 방법
 
 ```
-    truffle migration bsc_mainnet
+    truffle migration --network bsc_mainnet
 ```
